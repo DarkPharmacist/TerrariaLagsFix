@@ -1,4 +1,4 @@
-# Terraria Lags and Memory Leak Fix
+# Terraria Lags and Memory Leak Fix on MacOS
 
 1. Open the game properties in Steam.  
 2. Enter `/gldevice:Vulkan` in the launch options.  
